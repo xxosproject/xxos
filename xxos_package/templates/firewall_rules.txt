@@ -1,0 +1,2 @@
+# Example firewall rules
+# Customize before use
