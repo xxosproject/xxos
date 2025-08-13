@@ -1,5 +1,0 @@
-{
-  "network": "devnet",
-  "client": "geth",
-  "datadir": "/var/lib/geth"
-}
