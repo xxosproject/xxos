@@ -1,0 +1,3 @@
+# XXOS GRUB theme placeholder
+title-text: "XXOS (BETA)"
+desktop-image: "splash.png"

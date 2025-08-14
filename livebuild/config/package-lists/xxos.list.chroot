@@ -1,0 +1,23 @@
+# XXOS Beta package list (core + security tools)
+mate-desktop-environment
+network-manager
+lightdm
+plymouth
+sudo
+vim
+curl
+wget
+git
+openssh-server
+nmap
+wireshark
+tor
+nftables
+suricata
+fail2ban
+docker.io
+python3
+python3-pip
+firefox-esr
+python3-gi
+gir1.2-gtk-3.0
